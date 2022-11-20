@@ -1,0 +1,89 @@
+.responsive_map {
+    height: 0;
+    overflow: hidden;
+
+    position: relative;
+    padding-bottom: 300px;
+}
+
+.responsive_map iframe {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+.satz{
+    font-size: 150%;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.footer{
+    color: #707173 !important;
+    background-color: #EEEFEC !important;
+    padding-left: 2%;
+    padding-top: 2%;
+
+}
+
+.Kontakt{
+
+    color: #707173 !important;
+    font-size: 80%;
+
+}
+
+.bild{
+    background-color: #EEEFEC !important;
+}
+
+.navbar .navbar-collapse{
+    text-align: center;
+}
+
+.cards{
+    margin: 40px;
+}
+
+.frau{
+    width: 140%;
+    padding: 20%;
+}
+
+.mich{
+    display: flex;
+    height: 100%;
+    padding-top: 2%;
+    vertical-align: middle;
+}
+
+.text{
+
+}
+
+.gutschein{
+    background-color: #FCFCFA;
+}
+
+#tele:active{color: black}
+
+
+.behandlungen{
+
+    padding-top: 1%;
+}
+.behandeln{
+    padding-left: 4%;
+}
+
+.problem{
+    padding-bottom: 4%;
+}
+
+#phoneLogo  {
+    margin-bottom: 30px;
+}
+

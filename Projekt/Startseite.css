@@ -1,0 +1,42 @@
+.responsive_map {
+    height: 0;
+    overflow: hidden;
+
+    position: relative;
+    padding-bottom: 300px;
+}
+
+.responsive_map iframe {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+.satz{
+    font-size: 150%;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.footer{
+    color: #707173 !important;
+    background-color: #EEEFEC !important;
+}
+
+.Kontakt{
+    padding-top: 10%;
+    padding-left: 10%;
+    color: #707173 !important;
+    font-size: 80%;
+}
+
+.bild{
+    background-color: #EEEFEC !important;
+}
+
+.navbar .navbar-collapse{
+    text-align: center;
+}

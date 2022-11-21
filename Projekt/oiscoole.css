@@ -49,8 +49,7 @@
 }
 
 .frau{
-    width: 140%;
-    padding: 20%;
+    width: 80%;
 }
 
 .mich{
@@ -61,7 +60,7 @@
 }
 
 .text{
-
+    font-size: 110%;
 }
 
 .gutschein{
@@ -106,5 +105,15 @@ div.demo span {
     display: table-cell;
     text-align: center;
     font-size: 16px;
+}
+
+.uebermich{
+    text-align: center;
+    text-justify: distribute-center-last;
+}
+.card{
+    padding: 5%;
+    height: 70%;
+    border-color: white;
 }
 

@@ -65,6 +65,9 @@
 
 .gutschein{
     background-color: #FCFCFA;
+    margin-left: 13%;
+    margin-right: 13%;
+    font-size: 80%;
 }
 
 #tele:active{color: black}

@@ -26,7 +26,6 @@
     background-color: #EEEFEC !important;
     padding-left: 2%;
     padding-top: 2%;
-
 }
 
 .Kontakt{
@@ -102,7 +101,9 @@ div.demo {
     background-color: #EEEFEC;
 
     width: 100%;
-    table-layout: fixed;    /* For cells of equal size */
+    table-layout: fixed;
+    bottom: 0;
+    position: fixed;/* For cells of equal size */
 }
 div.demo span {
     display: table-cell;
@@ -122,4 +123,25 @@ div.demo span {
 
 .footerName{
     font-weight: bold;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
 }

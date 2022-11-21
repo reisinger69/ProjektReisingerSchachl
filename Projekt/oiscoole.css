@@ -103,7 +103,7 @@ div.demo {
     width: 100%;
     table-layout: fixed;
     bottom: 0;
-    position: fixed;/* For cells of equal size */
+    position: absolute;/* For cells of equal size */
 }
 div.demo span {
     display: table-cell;
